@@ -64,3 +64,11 @@
 
 // suma = SumaDosNumeros(n2,n1);
 // console.log(suma)
+
+function intercalare(cadena){
+    //aqui va el codigo
+    return resultado
+}
+
+resultado = intercalare("Este es un texto")
+console.log(resultado)
