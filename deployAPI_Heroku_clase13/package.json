@@ -1,0 +1,21 @@
+{
+  "name": "b25_devf",
+  "version": "1.0.0",
+  "description": "Esta es una api para el DEV",
+  "main": "server.js",
+  "scripts": {
+    "start" : "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gerardo Arjona",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.14"
+  },
+  "engines": {
+    "node": "10.13.0",
+    "npm": "6.4.1"
+  }
+}
